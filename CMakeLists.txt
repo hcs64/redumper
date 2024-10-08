@@ -121,6 +121,7 @@ target_sources(redumper
     "cd/scrambler.ixx"
     "cd/split.ixx"
     "cd/subcode.ixx"
+    "cd/subcode_rw.ixx"
     "cd/toc.ixx"
     "crc/crc.ixx"
     "crc/crc16_gsm.ixx"
